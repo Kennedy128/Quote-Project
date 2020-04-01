@@ -8,12 +8,12 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes:Quote[] = [
-    new Quote(1, 'Watch finding Nemo', 'Find an online version and watch merlin find his son',new Date(2020,3,14)),
-    new Quote(2,'Buy Cookies','I have to buy cookies for the parrot',new Date(2019,6,9)),
-    new Quote(3,'Get new Phone Case','Diana has her birthday coming up soon',new Date(2022,1,12)),
-    new Quote(4,'Get Dog Food','Pupper likes expensive snacks',new Date(2019,0,18)),
-    new Quote(5,'Solve math homework','Damn Math',new Date(2019,2,14)),
-    new Quote(6,'Plot my world domination plan','Cause I am an evil overlord',new Date(2030,3,14)),
+    new Quote(1, 'life is what happens when you are busy making other plans written by Diana from Linklon', 'written by Diana from LInklon',new Date(2020,3,1)),
+    new Quote(2,'you know you are inlove when you cant fall asleep because reality is finally better than your dreams written by Dr sue Germany','written by DR sue Germany',new Date(2020,3,1)),
+    new Quote(3,'Get busy living or get busy dying written by Mark Caine','written by Mark Caine',new Date(2020,3,1)),
+    new Quote(4,'twenty years from now you will be more disappointed by the things that you didnt do than by the ones you did written by Mark Caine','written by Mark Caine',new Date(2020,3,1)),
+    new Quote(5,'great minds discuss ideas,avarage minds discuss events and small minds discuss people by Eleanor Roosevelt','written by Eleanor Roosevelt',new Date(2020,3,1)),
+    new Quote(6,'God is the way the truth and the life and whoever believes in Him shall inherit the kingdom of heaven believed by Kennedy Mbithi','believed by Kennedy Mbithi',new Date(2020,3,1)),
     
 
   
