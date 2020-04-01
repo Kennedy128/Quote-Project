@@ -18,6 +18,13 @@ export class QuoteComponent implements OnInit {
 
   
   ];
+  addNewQuote(quote){
+    let quoteLength = this.quotes.length;
+    let quoteObj=new Quote(quote.id = quoteLength+1 ,quote.name ,quote.description,quote.completeDate=new Date(quote.completeDate) )
+    
+    this.quotes.push(quoteObj)
+  }
+
   deleteQuote(isComplete, index){
     if (isComplete) {
       let toDelete = confirm(`do you want to procced with deletion ${this.quotes[index].name}?`)
