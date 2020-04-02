@@ -1,3 +1,18 @@
 <p>{{quote.description}}</p>
 <p>This quote has stayeds for {{quote.completeDate|dateCount}} days</p>
 <button (click)= 'quoteDelete(true)'>Delete Quote</button>
+
+<div class="votes">
+    <div>
+        <button class="btn btn-outline-secondary btn-lg btn-block btnVotes" (click) =upvoteCLick()>Upvote</button>
+        <p>{{upvotes}}</p>
+        
+
+
+    </div>
+    <div>
+        <button class="btn btn-outline-secondary btn-lg btn-block btnVotes" (click) =downvoteCLick()>Downvote</button>
+        <p>{{downvotes}}</p>
+
+    </div>
+    </div>
