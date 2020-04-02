@@ -1,4 +1,9 @@
 .col-md-6{
 
     background-color: grey;
+    
+}
+.container{
+    color: blue;
+    background-color: rosybrown;
 }
