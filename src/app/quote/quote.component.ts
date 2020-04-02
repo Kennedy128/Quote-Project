@@ -13,7 +13,7 @@ export class QuoteComponent implements OnInit {
     new Quote(3,'Get busy living or get busy dying written by Mark Caine','written by Mark Caine',new Date(2020,3,1)),
     new Quote(4,'twenty years from now you will be more disappointed by the things that you didnt do than by the ones you did written by Mark Caine','written by Mark Caine',new Date(2020,3,1)),
     new Quote(5,'great minds discuss ideas,avarage minds discuss events and small minds discuss people by Eleanor Roosevelt','written by Eleanor Roosevelt',new Date(2020,3,1)),
-    new Quote(6,'God is the way thes truth and the life and whoever believes in Him shall inherit the kingdom of heaven believed by Kennedy Mbithi','believed by Kennedy Mbithi',new Date(2020,3,1)),
+    new Quote(6,'God is the way the truth and the life and whoever believes in Him shall inherit the kingdom of heaven believed by Kennedy Mbithi','believed by Kennedy Mbithi',new Date(2020,3,1)),
     
 
   
