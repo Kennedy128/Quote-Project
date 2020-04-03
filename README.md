@@ -1,6 +1,32 @@
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+the project is a application that allows one to
+see quotes
+2.dislike or even like quotes and it will be indicated in the project
+3.Delete the quote that was created
+4.add a particular quote and it indicates the most popular quote
+
+AUTHOR
+.Kennedy Mbithi
+
+SETUP/INSTALLATION REQUIREMENT
+.fork the particular app
+2.clone this app
+3.Open the terminal
+4.navigate to the required directory using the cd command
+5.clone and paste the url of the clone
+
+
+ TECHNOLOGIES USED
+ 1.angular js
+ 
+ SUPPORT AND CONTACT DETAILS
+ if you come across any problem reach me through kennedymbithi12@gmail.com which is my gmail account or through my phone number 0722345456
+ 
+ LICENCE
+ it is licenced under the terms of the MIT licence.Copyright (c)2020 Kennedy Mbithi
+ Permission is therefore granted free of charge to any obtaining a copy of the software and associated documents.The above copyright notice and this permission notice shall be included in all copies of substantial portion of software
 
 ## Development server
 
